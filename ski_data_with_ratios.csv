@@ -1,0 +1,12 @@
+,Unnamed: 0,Name,triple,double,surface,total_chairs,Runs,TerrainParks,LongestRun_mi,SkiableTerrain_ac,Snow Making_ac,averageSnowfall,AdultWeekday,AdultWeekend,ratio_of_triple_other_to_WFM,ratio_of_surface_other_to_WFM,ratio_of_total_chairs_other_to_WFM,ratio_of_Runs_other_to_WFM,ratio_of_TerrainParks_other_to_WFM,ratio_of_LongestRun_mi_other_to_WFM,ratio_of_SkiableTerrain_ac_other_to_WFM,ratio_of_Snow Making_ac_other_to_WFM,ratio_of_averageSnowfall_other_to_WFM,ratio_of_AdultWeekday_other_to_WFM,ratio_of_AdultWeekend_other_to_WFM
+0,141,Blacktail Mountain Ski Area,1,2,1,4,27.0,,0.7,1000.0,,250.0,42.0,42.0,0.1667,0.3333,0.2857,0.2571,,0.2121,0.3333,,0.7508,0.5185,0.5185
+1,142,Bridger Bowl,6,1,3,11,105.0,2.0,1.5,2000.0,100.0,350.0,63.0,63.0,1.0,1.0,0.7857,1.0,0.5,0.4545,0.6667,0.1667,1.0511,0.7778,0.7778
+2,143,Discovery Ski Area,5,2,1,8,74.0,1.0,1.5,2400.0,25.0,225.0,49.0,49.0,0.8333,0.3333,0.5714,0.7048,0.25,0.4545,0.8,0.0417,0.6757,0.6049,0.6049
+3,144,Great Divide,0,5,1,6,110.0,6.0,3.0,1600.0,150.0,180.0,48.0,48.0,0.0,0.3333,0.4286,1.0476,1.5,0.9091,0.5333,0.25,0.5405,0.5926,0.5926
+4,145,Lost Trail - Powder Mtn,0,5,3,8,69.0,2.0,2.5,1800.0,,325.0,46.0,46.0,0.0,1.0,0.5714,0.6571,0.5,0.7576,0.6,,0.976,0.5679,0.5679
+5,146,Maverick Mountain,0,1,1,2,22.0,,1.3,255.0,,160.0,39.0,39.0,0.0,0.3333,0.1429,0.2095,,0.3939,0.085,,0.4805,0.4815,0.4815
+6,147,Montana Snowbowl,0,2,2,4,37.0,,1.2,950.0,20.0,300.0,50.0,50.0,0.0,0.6667,0.2857,0.3524,,0.3636,0.3167,0.0333,0.9009,0.6173,0.6173
+7,148,Red Lodge Mountain,1,3,1,7,70.0,2.0,2.5,1635.0,496.0,250.0,67.0,67.0,0.1667,0.3333,0.5,0.6667,0.5,0.7576,0.545,0.8267,0.7508,0.8272,0.8272
+8,149,Showdown Montana,1,2,1,4,36.0,1.0,1.8,640.0,,250.0,47.0,47.0,0.1667,0.3333,0.2857,0.3429,0.25,0.5455,0.2133,,0.7508,0.5802,0.5802
+9,150,Teton Pass Ski Resort,0,1,2,3,43.0,1.0,3.0,330.0,,250.0,39.0,39.0,0.0,0.6667,0.2143,0.4095,0.25,0.9091,0.11,,0.7508,0.4815,0.4815
+10,151,Whitefish Mountain Resort,6,0,3,14,105.0,4.0,3.3,3000.0,600.0,333.0,81.0,81.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
